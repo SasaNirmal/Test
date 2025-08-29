@@ -7,6 +7,7 @@ public class Student {
     private String address;
 
     public Student() {
+
     }
 
     public Student(String studentname, int age, String address) {
